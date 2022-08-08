@@ -65,10 +65,12 @@
     1. Rookie draft pick trading shall be allowed.
     1. Any rookie draft picks lost through trades or forfeited should be considered lost and will not be compensated or backfilled.
     1. Any additional rookie draft picks numbering higher than number of available Starting Roster and Taxi Squad positions shall be forfeited from latest round to earliest.
-1. Waivers
+1. Off-Season Waivers
     1. Waivers shall be locked individually at their scheduled game time.
     1. No limit shall be imposed on the number of waiver acquisitions or drops over the course of a season.
     1. Waivers shall remain active for one day after the end of each week’s final scheduled game.
+    1. _$100 FAAB_
+1. In-Season Waivers
     1. _$100 FAAB_
 1. Trades
     1. No limit shall be imposed on the number of trades or drops over the course of a season.
@@ -86,7 +88,7 @@
 1. Regular Season
     1. The League regular season shall consist of fourteen (14) weeks during weeks 1-14 of the NFL regular season.
     1. Each team’s regular season schedule shall be fixed and unchanging with the following criteria:
-        - A team shall play each team
+        - _A team shall play each team_
 1. Playoffs
     1. The League playoffs shall consist of three rounds during weeks 15, 16, 17 of the NFL regular season.
     1. Playoff teams shall be two division champions plus four wild card teams seeded:
@@ -105,8 +107,8 @@
     1. The first round of playoffs (Wild Card Round) shall consist of:
         - [Game 1] #3 seed vs #6 seed
         - [Game 2] #4 seed vs #5 seed
-        - #1 seed off on bye
-        - #2 seed off on bye
+        - [Bye] #1 seed off
+        - [Bye] #2 seed off
     1. The second round of playoffs (Divisional Round) shall consist of:
         - [Game 3] #1 seed vs lowest seeded winner of the Wild Card Round
         - [Game 4] #2 seed vs highest seeded winner of the Wild Card Round
@@ -137,8 +139,8 @@
 [//]: # (Needs content)
 # Game Scoring
 
-1. Individual Players
-    1. Individual player scoring shall be based on the stats shown in the table below. All ranges are inclusive.
+1. Individual Offensive Players
+    1. Individual offensive player scoring shall be based on the stats shown in the table below. All ranges are inclusive.
 
         |Category|Scoring Event|Points per Event|
         |--------|-------------|----------------|
