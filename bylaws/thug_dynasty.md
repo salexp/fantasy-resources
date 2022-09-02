@@ -160,4 +160,4 @@
     1. All Owners should cast their vote to affirm, decline, or abstain.
     1. A rule change shall be confirmed upon an affirmative vote from a majority of Owners, unless otherwise state in the Bylaws.
     1. The voting period should last no more than two days.
-    1. There should be an assumption of abstinence for Owners that don’t cast a vote.
+    1. There should be an assumption of abstention for Owners that don’t cast a vote.
